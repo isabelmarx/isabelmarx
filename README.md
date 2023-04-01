@@ -9,7 +9,7 @@
 
 <div align="center">
 
-Hi, my name is Isabel Marx, I live in Santiago, Chile, and am currently studying Electrical Engineering, with my eyes set on being a Machine Learning Engineer and a Data Scientist🤩.
+Hi, my name is Isabel Marx, I live in Santiago, Chile, and am currently studying Electrical Engineering, with my eyes set on being a Machine Learning Engineer and a Data Scientist 🤩
   
 </div>
 
@@ -36,13 +36,13 @@ Hi, my name is Isabel Marx, I live in Santiago, Chile, and am currently studying
 
 <br>
 
-- 🤖 I'm interested in Machine Learning, Voice Processing and MLOps.
-- 🏫 Currently finishing my Electrical Engineering studies in the University of Chile, hopeing to apply for a master's in Data Science soon.
+- 🤖 I'm interested in Neuroscience, Machine Learning, Voice Processing and MLOps.
+- 🏫 Currently finishing my Electrical Engineering studies in the University of Chile, hoping to apply for a master's in Data Science soon.
 - 👩‍💻 My internship this summer working for Cenia was really fun!
 - 🛸 I did my first internship at a drones company in Berlin, Germnay.
 - 👩‍🏫 I'm a volunteer at Niñas Pro, teaching programming classes to girls ages 10 to 18.
 - 🐶 I've volunteered caring for, vaccinating and sterilizing street dogs and cats, at Abandonados Parque O'Higgins.
-- 🐮 Be it personally or online, I spend a lot of my free time doing Animal Rights Activism, specially for those animals exploited in the agricultural system.
+- 🐮 Be it personally or online, I spend a lot of my free time doing Animal Rights Activism, specially for those animals exploited in the agricultural industry.
 - 🥦 I've been vegan for 7 years.
 - 👩‍🍳 I like to cook and particularly bake. I love sweets!
 - 🪲 Recently, I've developed a new-found love for insects. I hope to learn more about Entomology in the future.
@@ -55,7 +55,7 @@ Hi, my name is Isabel Marx, I live in Santiago, Chile, and am currently studying
 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![JS](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 Data Science and Machine Learning Frameworks
 
@@ -63,7 +63,7 @@ Data Science and Machine Learning Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white])
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-0F9C5A?style=flat-square&logo=pandas&logoColor=white])
 
-Enviroments, Containers, Deploy, CI, etc.
+Enviroments and Containers.
 
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat-square&logo=anaconda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
@@ -79,4 +79,3 @@ Others
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
-
