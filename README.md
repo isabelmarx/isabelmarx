@@ -1,7 +1,5 @@
 # Hi!
 
-![Picture of an insect, taken in my garden.](https://github.com/isabelmarx/isabelmarx/blob/main/banner.jpeg?raw=true)
-
 <div align="center">
     <img src='banner.jpeg' style="border-radius: 12px"> 
     <em>Picture of an insect, taken in my garden.</em>
@@ -44,10 +42,10 @@ Hi, my name is Isabel Marx, I live in Santiago, Chile, and am currently studying
 - 🛸 I did my first internship at a drones company in Berlin, Germnay.
 - 👩‍🏫 I'm a volunteer at Niñas Pro, teaching programming classes to girls ages 10 to 18.
 - 🐶 I've volunteered caring for, vaccinating and sterilizing street dogs and cats, at Abandonados Parque O'Higgins.
-- 🐮 Be it personally or online, I spend a lot of my free time doing Animal Rights Activism, specially those animals exploited in the agricultural system.
+- 🐮 Be it personally or online, I spend a lot of my free time doing Animal Rights Activism, specially for those animals exploited in the agricultural system.
 - 🥦 I've been vegan for 7 years.
 - 👩‍🍳 I like to cook and particularly bake. I love sweets!
-- 🪲 I've developed a new-found love for insects. I hope to learn more about Entomology in the future.
+- 🪲 Recently, I've developed a new-found love for insects. I hope to learn more about Entomology in the future.
 
 <br>
 <br>
